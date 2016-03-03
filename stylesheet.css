@@ -1,0 +1,17 @@
+
+.smallbox{
+  background-color: white;
+  height: 40px;
+  width: 500px;
+}
+.highlight{
+  background-color: yellow;
+}
+.smallerbox{
+  background-color: yellow;
+  height: 50px;
+  width: 500px;
+}
+.colorchange{
+  background-color: red;
+}
